@@ -4,3 +4,6 @@
 *.jar
 *.war
 *.ear
+/DxfConv/nbproject/private/
+/DxfConv/build/
+/DxfConv/dist/
